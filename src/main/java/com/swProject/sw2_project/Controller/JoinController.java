@@ -63,5 +63,6 @@ public class JoinController {
             e.printStackTrace();
             return "이메일 전송에 실패했습니다.";
         }
+
     }
 }
